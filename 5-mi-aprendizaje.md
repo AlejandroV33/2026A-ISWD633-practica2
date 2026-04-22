@@ -2,7 +2,7 @@
 ### Variables de entorno
 Ya tenía conocimiento de qué eran las variables de entorno, las había usado para configurar cosas como Java, Python, etc. En mi computadora en local. Pero es la primera vez que las uso en contenedores y entiendo su importancia con ciertas imagenes, especialmente bases de datos.
 
-### Ejercicio (2)
+### Ejercicio
 Para la practica 2-ejercicio me encontre con el problema de que no menciona el paso de crear una red para que se puedan comunicar ambos contenedores, sin embargo luego de una pequeña busqueda y posterior lectura de la práctica 3-redes me quedo claro como crear una red y añadir los contenedores.
 
 ### Redes
